@@ -44,3 +44,14 @@ h1 {
   font-weight: bold;
   font-size: 1.5rem;
 }
+
+footer{
+  background-color: gray;
+  padding: 15px;
+  width: 100%;
+  margin-top: 50px;
+}
+
+.row:not(:first-child){
+  margin-top:30px;
+}
